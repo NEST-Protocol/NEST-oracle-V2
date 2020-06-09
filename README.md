@@ -8,7 +8,7 @@ NEST Protocol is a decentralized price oracle based on Ethereum.
 0x9C3C7bcf8993A58410016E29882c78B552D5C9b4
 
 3、NEST oracle feed contract address：
-0x4f391c202a906eed9e2b63fdd387f28e952782e2
+0x43D99D54F14c64994FD9666BEAB6023b0069De20
 
 4、NEST System Revenue distribution Contract address：
 0xF67B829397Dc05751a98f243DbdE5Db63f86E7f6
